@@ -1,0 +1,21 @@
+FsRecords.DIRECTORY_CHILDREN
+template_language
+
+python_language_level_persistence
+sql_dialect
+GenericSQL
+css_dialect_persistence
+CLASSIC
+js_language_level_persistence
+ES6
+js.minified.store
+AUTO_DETECTION_CACHE_ATTRIBUTE
+FsRecords.SYMLINK_TARGET
+gist:clang_header_maps757ea72f
+objc_file_symbol_tables_meta_attribute
+LOOKS_LIKE_OBJC_ATTRIBUTE
+gist:objc_file_symbol_tables_attribute:757ea72f
+gist:file_test_scopesCatch Test
+gist:file_test_scopesGoogle Test
+gist:file_test_scopesdoctest Test
+gist:file_test_scopesBoost Test

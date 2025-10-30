@@ -1,0 +1,26 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/untitled2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled2 – main.cpp" projectWorkspaceId="34nkTP9TXUTHoxOdwCnhsOGigOJ">
+              <option name="activationTimestamp" value="1761856769207" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-252.25557.127" />
+              <option name="buildTimestamp" value="1756284720000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="328" y="129" width="1400" height="1000" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1761856731134" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/CLionProjects/untitled2" />
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

@@ -1,0 +1,1 @@
+{"recorder_version":"1","session":"25103020-ef7d35ea96b7","build":"252.25557.127","bucket":"226","time":1761856851322,"group":{"id":"mp.event.log","version":"1"},"event":{"count":1,"data":{"auto_license_type":"F","created":1761856851322,"system_event_id":0},"id":"external.send.command.creation.started"}}

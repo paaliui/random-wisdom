@@ -1,0 +1,95 @@
+{
+  "appInfo" : {
+    "build" : "252.25557.127",
+    "buildDate" : "2025-08-27T08:52:00Z[UTC]",
+    "productCode" : "CL",
+    "generated" : "2025-10-30T20:39:06.464551Z",
+    "os" : "macOS 26.0.1",
+    "runtime" : "JetBrains s.r.o. 21.0.8 21.0.8+9-b1038.68"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 10,
+    "maxNumberOfIndexingThreads" : 9,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "untitled2",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'untitled2' (all roots)\", \"Library Header Search Paths (class root Headers)\", \"Library Module Search Paths (no root)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 2672489375,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 1325042208,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 1346759500,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 2524736,
+      "dumbModeStart" : "2025-10-30T20:39:05.120388Z",
+      "dumbWallTimeWithPauses" : 1343559833,
+      "dumbWallTimeWithoutPauses" : 1343559833,
+      "updatingStart" : "2025-10-30T20:39:03.804427Z",
+      "updatingEnd" : "2025-10-30T20:39:06.463947833Z",
+      "totalWallTimeWithPauses" : 2659520833,
+      "wallTimeOnPause" : 2155000,
+      "isCancelled" : false,
+      "totalWallTimeWithoutPauses" : 2657365833
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 3,
+      "numberOfScannedFiles" : 12367,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 11894
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library Header Search Paths (class root Headers)",
+      "numberOfScannedFiles" : 12360,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 11894,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1252211671,
+      "totalOneThreadTimeWithPauses" : 2652642125,
+      "iterationAndScannersApplicationTime" : 1310126041,
+      "filesCheckTime" : 1342305750,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 272794498,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 2524736,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'untitled2' (all roots)",
+      "numberOfScannedFiles" : 7,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1244749,
+      "totalOneThreadTimeWithPauses" : 12944416,
+      "iterationAndScannersApplicationTime" : 9248500,
+      "filesCheckTime" : 3408417,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 4000,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Module Search Paths (no root)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 6902834,
+      "iterationAndScannersApplicationTime" : 5667667,
+      "filesCheckTime" : 1045333,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

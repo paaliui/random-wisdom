@@ -1,0 +1,35 @@
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - Process started with '--ide-token /Users/qwe8nxtroud/Desktop/random-wisdom 2/build/idea-sandbox/CL-2025.2.1/system/token --recorders FUS;MP;ML --device-fus 25022520ec6e23e-9451-47c9-83ae-65d79c5795a5 --bucket-fus 2 --machine-fus 84860afb46b1cd38c9e8cf933f9a4338e53bbcb6c57b6a8e7d19f5a907cf5bf5 --id-revision-fus 0 --files-fus /Users/qwe8nxtroud/Desktop/random-wisdom 2/build/idea-sandbox/CL-2025.2.1/system/event-log-data/logs/FUS/6d93-4fbf-9b61-dc981c130af1-252.25557.127-release.log --escape-fus false --device-mp 0503252e7537811-3804-4497-b6c3-419659f1c069 --bucket-mp 226 --machine-mp 089b2d2becf9953387f59077f68c99f328c3b588cd1b95f99cf6729739d1c1af --id-revision-mp 0 --files-mp  --escape-mp false --device-ml 25022520ec6e23e-9451-47c9-83ae-65d79c5795a5 --bucket-ml 2 --machine-ml 84860afb46b1cd38c9e8cf933f9a4338e53bbcb6c57b6a8e7d19f5a907cf5bf5 --id-revision-ml 0 --files-ml  --escape-ml false --regional-code not_set --product CL --product-version 2025.2.1 --baseline-version 252 --user-agent CLion/252.25557.127 --extra-headers '
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - Classpath:/Users/qwe8nxtroud/.gradle/caches/8.14.1/transforms/29571c72074a1dce48b1ec9aafa06e5d/transformed/CLion-2025.2.1-aarch64/lib/util-8.jar:/Users/qwe8nxtroud/.gradle/caches/8.14.1/transforms/29571c72074a1dce48b1ec9aafa06e5d/transformed/CLion-2025.2.1-aarch64/lib/annotations.jar:/Users/qwe8nxtroud/.gradle/caches/8.14.1/transforms/29571c72074a1dce48b1ec9aafa06e5d/transformed/CLion-2025.2.1-aarch64/lib/lib-client.jar:/Users/qwe8nxtroud/.gradle/caches/8.14.1/transforms/29571c72074a1dce48b1ec9aafa06e5d/transformed/CLion-2025.2.1-aarch64/lib/stats.jar
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader.events - 1761856851531 STARTED ALL
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - IDE token file: /Users/qwe8nxtroud/Desktop/random-wisdom 2/build/idea-sandbox/CL-2025.2.1/system/token
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [MP] Start uploading...
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [ML] Start uploading...
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [FUS] Start uploading...
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [ML] {product:CL, productVersion:2025.2.1, userAgent:CLion/252.25557.127(External), regionalCode: not_set, internal:false, isTestConfig:false, isTestSendEndpoint:false}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [MP] {product:CL, productVersion:2025.2.1, userAgent:CLion/252.25557.127(External), regionalCode: not_set, internal:false, isTestConfig:false, isTestSendEndpoint:false}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [FUS] {product:CL, productVersion:2025.2.1, userAgent:CLion/252.25557.127(External), regionalCode: not_set, internal:false, isTestConfig:false, isTestSendEndpoint:false}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [ML] {recorder:ML, files:}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [FUS] {recorder:FUS, files:/Users/qwe8nxtroud/Desktop/random-wisdom 2/build/idea-sandbox/CL-2025.2.1/system/event-log-data/logs/FUS/6d93-4fbf-9b61-dc981c130af1-252.25557.127-release.log}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [MP] {recorder:MP, files:}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [MP] {device:0503252e7537811-3804-4497-b6c3-419659f1c069, bucket:226}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [ML] {device:25022520ec6e23e-9451-47c9-83ae-65d79c5795a5, bucket:2}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader - [FUS] {device:25022520ec6e23e-9451-47c9-83ae-65d79c5795a5, bucket:2}
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader.events - 1761856851662 FINISHED MP NOTHING_TO_SEND
+30/10 23:40:51  INFO com.intellij.internal.statistic.uploader.events - 1761856851662 FINISHED ML NOTHING_TO_SEND
+30/10 23:40:51 FINER com.intellij.internal.statistic.uploader - [MP] Uploading finished with NOTHING_TO_SEND
+30/10 23:40:51 FINER com.intellij.internal.statistic.uploader - [ML] Uploading finished with NOTHING_TO_SEND
+30/10 23:40:51 FINER com.intellij.internal.statistic.uploader - [MP] No files to send
+30/10 23:40:51 FINER com.intellij.internal.statistic.uploader - [ML] No files to send
+30/10 23:40:52  INFO com.intellij.internal.statistic.uploader - Statistics. Configuration url: https://resources.jetbrains.com/storage/fus/config/v4/FUS/CL.json
+30/10 23:40:52  INFO com.intellij.internal.statistic.uploader - Statistics. Configuration is reachable: true
+30/10 23:40:52  INFO com.intellij.internal.statistic.uploader - Statistics. Send is enabled: true
+30/10 23:40:52  INFO com.intellij.internal.statistic.uploader - Statistics. Configuration service url: https://analytics.services.jetbrains.com/fus/v5/send/
+30/10 23:40:52  INFO com.intellij.internal.statistic.uploader - Statistics. Configuration metadata product url: https://resources.jetbrains.com/storage/ap/fus/metadata/tiger/FUS/groups/252/CL.json
+30/10 23:40:53  INFO com.intellij.internal.statistic.uploader - Statistics. Configuration options: {groupDataThreshold=10000, dataThreshold=15000, groupAlertThreshold=6000}
+30/10 23:40:53  INFO com.intellij.internal.statistic.uploader - Statistics. Starting sending 6d93-4fbf-9b61-dc981c130af1-252.25557.127-release.log to https://analytics.services.jetbrains.com/fus/v5/send/
+30/10 23:40:55 FINER com.intellij.internal.statistic.uploader - 6d93-4fbf-9b61-dc981c130af1-252.25557.127-release.log -> ""
+30/10 23:40:55 FINER com.intellij.internal.statistic.uploader - Removed sent log: 6d93-4fbf-9b61-dc981c130af1-252.25557.127-release.log
+30/10 23:40:55  INFO com.intellij.internal.statistic.uploader.events - 1761856855592 SEND FUS 1 0 1 [L1VzZXJzL3F3ZThueHRyb3VkL0Rlc2t0b3AvcmFuZG9tLXdpc2RvbSAyL2J1aWxkL2lkZWEtc2FuZGJveC9DTC0yMDI1LjIuMS9zeXN0ZW0vZXZlbnQtbG9nLWRhdGEvbG9ncy9GVVMvNmQ5My00ZmJmLTliNjEtZGM5ODFjMTMwYWYxLTI1Mi4yNTU1Ny4xMjctcmVsZWFzZS5sb2c=] []
+30/10 23:40:55  INFO com.intellij.internal.statistic.uploader.events - 1761856855594 FINISHED FUS
+30/10 23:40:55 FINER com.intellij.internal.statistic.uploader - [FUS] Uploading finished with SEND
+30/10 23:40:55 FINER com.intellij.internal.statistic.uploader - [FUS] Uploaded 1 files.

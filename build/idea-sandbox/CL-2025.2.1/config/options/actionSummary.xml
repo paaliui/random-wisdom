@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="3" l="1761856771205" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1761856751470" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1761856760470" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1761856728691" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1761856749762" />
+    </e>
+  </component>
+</application>

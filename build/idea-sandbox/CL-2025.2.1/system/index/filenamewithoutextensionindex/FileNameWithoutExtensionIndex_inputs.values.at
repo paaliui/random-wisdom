@@ -1,0 +1,38 @@
+rm_mve
+arm_sme
+arm_sve
+armintr
+intrin0
+mm3dnow
+ptrauthasan_interfacelsan_interfacemsan_interfacetsan_interfacedfsan_interfacescudo_interfaceubsan_interfacehwasan_interfacememprof_interfacecoverage_interfaceallocator_interfacelinux_syscall_hooksnetbsd_syscall_hookscommon_interface_defstsan_interface_atomic
+stdbool
+varargsarm_aclearm_bf16arm_cmsearm_fp16arm_neonbuiltinsinttypesmmintrinopencl-cptrcheckstdalign	adcintrin	adxintrin	ammintrin	amxintrin	arm64intr	avxintrin	bmiintrin	cetintrin	emmintrin	fmaintrin	htmintrin	immintrin	lsxintrin	lwpintrin	mm_malloc	nmmintrin	pkuintrin	pmmintrin	rtmintrin	sgxintrin	shaintrin	sm3intrin	sm4intrin	smmintrin	stdatomic	stdckdint	tbmintrin	tmmintrin	vecintrin	velintrin	wmmintrin	x86intrin	xmmintrin	xopintrin
+avx2intrin
+bmi2intrin
+clwbintrin
+f16cintrin
+fma4intrin
+fxsrintrin
+gfniintrin
+ia32intrin
+lasxintrinmmintrin	bmiintrin	emmintrin	immintrin	mm_malloc	nmmintrin	pmmintrin	smmintrin	tmmintrin	x86intrin	xmmintrin
+bmi2intrinx86gprintrin
+riscv_ntlh
+s390intrin
+vaesintrin
+yvals_corebuiltinscrc32intrinnewbasic_stringbasic_stringshared_ptr_basecmath
+complex	algorithmhtmxlintrinlarchintrinlzcntintrinrdpruintrinstdnoreturnuintrintrinxsaveintrinxtestintrinclzerointrinenqcmdintrinhresetintrinmovdirintrinmwaitxintrinpopcntintrinprfchiintrinprfchwintrinraointintrinrdseedintrinriscv_cryptosha512intrinwasm_simd128x86gprintrinxsavecintrinxsavesintrin__stddef_nullamxfp16intrinavx512fintrinavxifmaintrinavxvnniintrinhexagon_typesinvpcidintrinlifetimeboundopencl-c-basenewcmathmath
+complex
+complexcomplex_cmath"__clang_openmp_device_functionspconfigintrinptwriteintrinsifive_vectorusermsrintrinvelintrin_genwaitpkgintrinavx512bwintrinavx512cdintrinavx512dqintrinavx512vlintrincldemoteintrinhexagon_protos	moduleriscv_bitmaniptsxldtrkintrinwbnoinvdintrinxsaveoptintrin__stdarg_va_arg__stddef_size_t__stddef_wint_t__wmmintrin_aescmpccxaddintrinkeylockerintrinserializeintrin__clang_hip_math__stdarg_va_copy__stdarg_va_list__stddef_rsize_t__stddef_wchar_tamxcomplexintrinarm_vector_typesavx512bf16intrinavx512fp16intrinavx512ifmaintrinavx512vbmiintrinavx512vlbwintrinavx512vlcdintrinavx512vldqintrinavx512vnniintrinclflushoptintrintimectypestdio	assert	stdlib	stringinttypesvelintrin_approxvpclmulqdqintrin__clang_cuda_math__clang_hip_cmath__stddef_offsetofavx512vbmi2intrinavxvnniint8intrin__clang_cuda_cmath__clang_hip_stdlib__stdarg___va_copy__stddef_nullptr_t__stddef_ptrdiff_t__wmmintrin_pclmulavx512bitalgintrinavx512ifmavlintrinavx512vbmivlintrinavx512vlbf16intrinavx512vlfp16intrinavx512vlvnniintrinavxneconvertintrinavxvnniint16intrinhvx_hexagon_protosarm_neon_sve_bridgeavx512vlvbmi2intrin__stddef_max_align_t__stddef_unreachableavx512vlbitalgintrinfeature-availability__stdarg_header_macro__stddef_header_macroavx512vpopcntdqintrin__clang_cuda_intrinsics__stdarg___gnuc_va_listavx512vpopcntdqvlintrinavx512vp2intersectintrin__clang_cuda_builtin_varsavx512vlvp2intersectintrin__clang_hip_runtime_wrapper__clang_cuda_runtime_wrapperhexagon_circ_brev_intrinsics __clang_cuda_complex_builtins __clang_cuda_device_functions!__clang_hip_libdevice_declares"__clang_cuda_libdevice_declares"__clang_cuda_texture_intrinsics%"__clang_cuda_math_forward_declares020.sharedmemory.d	svg11-inclib.esnext.disposable.d
+svg-cursorlib.es2019.string.d
+svg-filter
+svg-marker
+svg-script
+svg11-tinysvg-patternsvg-profilesvg11-basicsvg-gradientsvg-animationsvg-datatypessvg-hyperlinksvg-structureinkscape-draftsvg-basic-clipsvg-basic-fontsvg-basic-textsvg11-tiny-incsvg-conditionalsvg-core-attribsvg11-basic-incsvg-basic-filtersvg-paint-attribsvg-xlink-attribsvg-extensibilitysvg-opacity-attribsvg-basic-structuresvg-graphics-attribsvg-viewport-attribsvg-container-attribsvg-docevents-attribsvg-animevents-attribsvg-graphevents-attribsvg-extresources-attribsvg-basic-graphics-attribsvg20	svg20-inc
+LICENSEhtml5	xhtml5	html5-all	html5-its
+html5chars
+xhtml5-allhtml5-rdfalitexhtml5-rdfalitehtml5-svg-mathmlxhtml5-svg-mathmlhtml5-no-microdatahtml5-rdfalite-w3cxhtml5-no-microdataxhtml5-rdfalite-w3csvg-xhtml5-rdf-mathmlxhtml1-ruby-rdf-svg-mathmlxhtml-mobile10xhtml-mobile12xhtmlmp12-form-1xhtml-mobile10-flatxhtml-mobile12-formxhtml-mobile10-model-1xhtml-mobile12-model-1
+xhtml11
+xhtml-lat1xhtml-base-1xhtml-edit-1xhtml-form-1xhtml-link-1xhtml-list-1xhtml-meta-1xhtml-pres-1xhtml-ruby-1xhtml-symbolxhtml-text-1xhtml-image-1xhtml-param-1xhtml-qname-1xhtml-specialxhtml-style-1xhtml-table-1xhtml-events-1xhtml-object-1xhtml-script-1xhtml-struct-1xhtml-target-1xhtml-attribs-1xhtml-blkpres-1xhtml-charent-1xhtml-csismap-1xhtml-inlpres-1xhtml-ssismap-1xhtml11-model-1xhtml-blkphras-1xhtml-inlphras-1xhtml-inlstyle-1xhtml-blkstruct-1xhtml-datatypes-1xhtml-framework-1xhtml-hypertext-1xhtml-inlstruct-1xhtml-basic-form-1xhtml-basic-table-1	doc-stylexslt-schemadocumentationdocumentation	xhtml5xmlxhtmlxlink	xhtml1
+catalogxincludexslt-1_0xslt-2_0	XMLSchema XMLSchema-hasFacetAndProperty	XMLSchema	XMLSchema	datatypes
+xhtml-lat1xhtml-symbolxhtml-specialxhtml1-strictxhtml1-strictxhtml1-framesetxhtml1-framesetplugin-repositoryXMLSchema-instancexhtml1-transitionalxhtml1-transitionalXMLSchema-versioning
