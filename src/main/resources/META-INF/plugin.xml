@@ -2,7 +2,7 @@
   <id>dev.viktor.randomwisdom</id>
   <name>Random Wisdom</name>
   <version>1.0.0</version>
-  <vendor email="you@example.com">Алиныч</vendor>
+  <vendor email="haslavskayaalina@yandex.ru">Алина Хаславская</vendor>
 
   <depends>com.intellij.modules.clion</depends>
 
